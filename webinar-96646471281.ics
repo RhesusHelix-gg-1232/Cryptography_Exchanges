@@ -1,0 +1,77 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:America/New_York
+LAST-MODIFIED:20230104T023643Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZNAME:EDT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:EST
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20230120T224444Z
+DTSTART;TZID=America/New_York:20230201T130000
+DTEND;TZID=America/New_York:20230201T140000
+SUMMARY:Announcing DigiCert Trust Lifecycle Manager 
+UID:20230120T224444Z-96646471281@fe80:0:0:0:8f5:8bff:fe6c:8f08ens5
+TZID:America/New_York
+DESCRIPTION:Join from a PC\, Mac\, iPad\, iPhone or Android device:\n    
+ Please click this URL to join. https://digicert.zoom.us/w/96646471281?tk
+ =lf5WCuVIdLWvnOFnFzdz2BR9YNTqgDyBRVJLd74ZMAc.DQMAAAAWgJQecRY5SEtmRjk1TFJ
+ fYTk2NFh1U0ZuWTJnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=bGtNYWk2TC9YY3ExYUNZ
+ VCtCeTdaUT09&uuid=WN_MqhTZWKNQbGmJwL38EIcyw\n    Passcode: 232083\n	Desc
+ ription: Organizations face a higher risk of certificate outages\, ident
+ ity and authentication challenges than ever before. That’s why we built 
+ DigiCert Trust Lifecycle Manager. Our new full-stack\, CA-agnostic solut
+ ion delivers certificate management with PKI services for centralized vi
+ sibility and control\, and secure identity and authentication. Everythin
+ g PKI\, all in one place.\n\nJoin IBM Chief Architect and Strategy Lead 
+ Weibo Yuan\, DigiCert CEO Dr. Amit Sinha and DigiCert Senior Director of
+  Product Management Anthony Ricci as they discuss how digital trust is n
+ ow an imperative in this evolving enterprise landscape and explore the k
+ ey pillars of certificate lifecycle management and PKI services. \n\nYou
+ ’ll learn:\n\n1.  The importance of using digital trust to secure everyt
+ hing that connects\n2. Addressing the proliferation of digital transform
+ ation challenges\, including support for Zero Trust and remote workforce
+ s\n3. How DigiCert Trust Lifecycle Manager delivers flexibility to meet 
+ any use case in any organization’s ecosystem\n\nOr One tap mobile:\n    
+ +16465588656\,\,96646471281#\,\,\,\,*232083# US (New York)\n    \nOr joi
+ n by phone:\n    Dial(for higher quality\, dial a number based on your c
+ urrent location):\n        US: +1 646 558 8656 \n        Australia: +61 
+ 8 7150 1149  or +61 2 8015 6011 \n        Germany: +49 69 7104 9922 \n  
+       Ireland: +353 6 163 9031  or +353 1 653 3895 \n        Japan: +81 
+ 3 4579 0545  or +81 3 4578 1488 \n        Netherlands: +31 20 794 0854  
+ or +31 20 241 0288 \n        Singapore: +65 3165 1065  or +65 3158 7288 
+ \n        South Africa: +27 87 551 7702  or +27 87 550 3946 \n        Sp
+ ain: +34 917 873 431  or +34 84 368 5025 \n        Sweden: +46 850 539 7
+ 28  or +46 8 4468 2488 \n        Switzerland: +41 43 210 70 42  or +41 3
+ 1 528 09 88 \n        United Kingdom: +44 203 481 5237  or +44 131 460 1
+ 196 \n    Webinar ID: 966 4647 1281\n    Passcode: 232083\n    Internati
+ onal numbers available: https://digicert.zoom.us/u/abpudrWWkg\n\n
+LOCATION:https://digicert.zoom.us/w/96646471281?tk=lf5WCuVIdLWvnOFnFzdz2B
+ R9YNTqgDyBRVJLd74ZMAc.DQMAAAAWgJQecRY5SEtmRjk1TFJfYTk2NFh1U0ZuWTJnAAAAAA
+ AAAAAAAAAAAAAAAAAAAAAAAA&pwd=bGtNYWk2TC9YY3ExYUNZVCtCeTdaUT09&uuid=WN_Mq
+ hTZWKNQbGmJwL38EIcyw
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

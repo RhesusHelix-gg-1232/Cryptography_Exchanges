@@ -1,2 +1,12 @@
-# Cryptography_Exchanges
--For Small Businesses A Competition Exchange Platform Buy, Sell, &amp; Trade or Transfer with Partner Integration; over 100 Currencies Available - New Staking
+# OpenZeppelin Contracts
+
+The files in this directory were sourced unmodified from OpenZeppelin Contracts v4.8.0.
+
+They are not meant to be edited.
+
+The originals can be found on [GitHub] and [npm].
+
+[GitHub]: https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable/tree/v4.8.0
+[npm]: https://www.npmjs.com/package/@openzeppelin/contracts-upgradeable/v/4.8.0
+
+Generated with OpenZeppelin Contracts Wizard (https://zpl.in/wizard).
